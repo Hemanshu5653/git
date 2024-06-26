@@ -1,2 +1,2 @@
 # git
-## Editing thr file
+## Editing the file
